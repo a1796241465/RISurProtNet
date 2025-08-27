@@ -1,8 +1,9 @@
 # RISurProtNet:RISurConv-based Protein Network
 
 ## Installation
-The environment required to run this project can be set up using the provided environment.yml file.  
-
+```
+pip install -r requirements.txt
+```
 Install the pointnet++ cuda operation library by running the following command:
 ```
 cd pointops
